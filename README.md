@@ -1,2 +1,2 @@
 # Jogo da forca
-Jogo da forca feito com python
+Jogo da forca criado apenas com python
